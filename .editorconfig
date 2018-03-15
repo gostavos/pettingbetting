@@ -7,6 +7,13 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
+<<<<<<< HEAD
 
 [*.md]
 trim_trailing_whitespace = false
+=======
+#comment lol
+
+[*.md]
+trim_trailing_whitespace = false
+>>>>>>> ca834720f9affec6d1382e74865867a8309b3c91
